@@ -2,8 +2,8 @@
 
 > A professional-grade analysis toolkit for cryptocurrency traders, blending a Flutter mobile front-end with a data-intensive Python backend.
 
+<img width="1280" height="1280" alt="CryptoNode" src="https://github.com/user-attachments/assets/3e5a943e-d799-4380-9713-d64f3e01ad1c" />
 
-<img width="2048" height="2048" alt="icon" src="https://github.com/user-attachments/assets/2789dff0-ad1b-492e-9cfc-ab0fdf2fddd9" />
 
 ## ✨ Features
 
